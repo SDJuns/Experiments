@@ -1,0 +1,7 @@
+# 기타 무시할 파일들
+.env
+*.pyc
+__pycache__/
+
+# 모델 파일 폴더 무시!
+app/model_weight/
