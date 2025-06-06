@@ -6,27 +6,27 @@ import requests
 MODEL_INFOS = [
     (
         "biddem_compressed.pt",
-        "https://github.com/AnJungMin/AIOpsBackend/releases/download/v2.0/biddem_compressed.pt"
+        "https://github.com/SDJuns/Experiments/releases/download/v2.0/biddem_compressed.pt"
     ),
     (
         "mise_compressed.pt",
-        "https://github.com/AnJungMin/AIOpsBackend/releases/download/v2.0/mise_compressed.pt"
+        "https://github.com/SDJuns/Experiments/releases/download/v2.0/mise_compressed.pt"
     ),
     (
         "mono_compressed.pt",
-        "https://github.com/AnJungMin/AIOpsBackend/releases/download/v2.0/mono_compressed.pt"
+        "https://github.com/SDJuns/Experiments/releases/download/v2.0/mono_compressed.pt"
     ),
     (
         "mosa_compressed.pt",
-        "https://github.com/AnJungMin/AIOpsBackend/releases/download/v2.0/mosa_compressed.pt"
+        "https://github.com/SDJuns/Experiments/releases/download/v2.0/mosa_compressed.pt"
     ),
     (
         "pizi_compressed.pt",
-        "https://github.com/AnJungMin/AIOpsBackend/releases/download/v2.0/pizi_compressed.pt"
+        "https://github.com/SDJuns/Experiments/releases/download/v2.0/pizi_compressed.pt"
     ),
     (
         "talmo_compressed.pt",
-        "https://github.com/AnJungMin/AIOpsBackend/releases/download/v2.0/talmo_compressed.pt"
+        "https://github.com/SDJuns/Experiments/releases/download/v2.0/talmo_compressed.pt"
     ),
 ]
 
