@@ -24,7 +24,7 @@ model_paths = [
 
 # 3. 전처리 함수 (merge.ipynb와 동일, 모두 동일하면 *6 활용)
 default_transform = transforms.Compose([
-    transforms.Resize((300, 300), interpolation=transforms.InterpolationMode.BICUBIC),
+    transforms.Resize((280, 280), interpolation=transforms.InterpolationMode.BICUBIC),
     transforms.ToTensor(),
     transforms.Normalize(
         mean=[0.485, 0.456, 0.406],
