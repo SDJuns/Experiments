@@ -5,28 +5,28 @@ import requests
 
 MODEL_INFOS = [
     (
-        "biddem_compressed.pt",
-        "https://github.com/SDJuns/Experiments/releases/download/v2.0/biddem_compressed.pt"
+        "biddem_B0_compressed.pt",
+        "https://github.com/SDJuns/Experiments/releases/download/v3.0/biddem_B0_compressed.pt"
     ),
     (
-        "mise_compressed.pt",
-        "https://github.com/SDJuns/Experiments/releases/download/v2.0/mise_compressed.pt"
+        "mise_B0_compressed.pt",
+        "https://github.com/SDJuns/Experiments/releases/download/v3.0/mise_B0_compressed.pt"
     ),
     (
-        "mono_compressed.pt",
-        "https://github.com/SDJuns/Experiments/releases/download/v2.0/mono_compressed.pt"
+        "mono_B0_compressed.pt",
+        "https://github.com/SDJuns/Experiments/releases/download/v3.0/mono_B0_compressed.pt"
     ),
     (
-        "mosa_compressed.pt",
-        "https://github.com/SDJuns/Experiments/releases/download/v2.0/mosa_compressed.pt"
+        "mosa_B0_compressed.pt",
+        "https://github.com/SDJuns/Experiments/releases/download/v3.0/mosa_B0_compressed.pt"
     ),
     (
         "pizi_compressed.pt",
         "https://github.com/SDJuns/Experiments/releases/download/v2.0/pizi_compressed.pt"
     ),
     (
-        "talmo_compressed.pt",
-        "https://github.com/SDJuns/Experiments/releases/download/v2.0/talmo_compressed.pt"
+        "talmo_B0_compressed.pt",
+        "https://github.com/SDJuns/Experiments/releases/download/v3.0/talmo_B0_compressed.pt"
     ),
 ]
 
